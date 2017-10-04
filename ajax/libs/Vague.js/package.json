@@ -10,6 +10,11 @@
     "blur",
     "filter"
   ],
+  "license":{
+    "type": "MIT",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/Vague.js/0.0.6/Vague.js"
+
+  }
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/GianlucaGuarini/Vague.js.git",

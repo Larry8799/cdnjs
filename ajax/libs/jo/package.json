@@ -13,7 +13,7 @@
     "url": "https://github.com/davebalmer/jo.git"
   },
   "license": {
-    "type": "Redistribution",
-    "url": "http://joapp.com/docs/#License"
+    "type": "BSD-2-Clause",
+    "url": "https://github.com/davebalmer/jo/blob/ec767af487b8653778c36168c7b3a5f478753cc5/LICENSE.mdown"
   }
 }
